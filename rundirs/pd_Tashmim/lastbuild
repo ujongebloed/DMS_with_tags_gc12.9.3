@@ -1,0 +1,25 @@
+make[1]: Entering directory '/home/disk/cindylou/ujongebl/mod_dms_12.9.3/rundirs/pd'
+LAST BUILD INFORMATION:
+  CODE_DIR     : ./CodeDir
+  CODE_BRANCH  : main
+  LAST_COMMIT  : mod
+  COMMIT_DATE  : Tue May 16 15:09:38 2023 -0700
+  VERSION      : 12.9.3
+  VERSION_TAG  : GC_12.9.3
+  TRACEBACK    : y
+  BOUNDS       : n
+  DEBUG        : n
+  FPE          : n
+  OMP          : y
+  CHEM         : Tropchem
+  TOMAS12      : n
+  TOMAS15      : n
+  TOMAS30      : n
+  TOMAS40      : n
+  APM          : n
+  RRTMG        : n
+  TAU_PROF     : n
+  BPCH_DIAG    : n
+  COMPILER     : ifort 19.0.1.144
+  Datetime     : 2023/11/17 09:15
+make[1]: Leaving directory '/home/disk/cindylou/ujongebl/mod_dms_12.9.3/rundirs/pd'
