@@ -1,0 +1,25 @@
+make[1]: Entering directory '/home/disk/cindylou/ujongebl/mod_dms_12.9.3/rundirs/pd_1979_hybrid_Chen_Tash'
+LAST BUILD INFORMATION:
+  CODE_DIR     : ./CodeDir
+  CODE_BRANCH  : main
+  LAST_COMMIT  : numerous mechanism updates and testing
+  COMMIT_DATE  : Thu Jan 4 17:00:01 2024 -0800
+  VERSION      : 12.9.3
+  VERSION_TAG  : GC_12.9.3
+  TRACEBACK    : y
+  BOUNDS       : n
+  DEBUG        : n
+  FPE          : n
+  OMP          : y
+  CHEM         : Tropchem
+  TOMAS12      : n
+  TOMAS15      : n
+  TOMAS30      : n
+  TOMAS40      : n
+  APM          : n
+  RRTMG        : n
+  TAU_PROF     : n
+  BPCH_DIAG    : n
+  COMPILER     : ifort 19.0.1.144
+  Datetime     : 2024/01/25 13:59
+make[1]: Leaving directory '/home/disk/cindylou/ujongebl/mod_dms_12.9.3/rundirs/pd_1979_hybrid_Chen_Tash'
